@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWebAPI", "HelloWebAPI\HelloWebAPI.csproj", "{1774F2BC-D1DD-410C-9362-300E25EC9931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClientConsole", "WebClientConsole\WebClientConsole.csproj", "{1E965059-993E-49CA-A67B-BD11978D9D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1774F2BC-D1DD-410C-9362-300E25EC9931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1774F2BC-D1DD-410C-9362-300E25EC9931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1774F2BC-D1DD-410C-9362-300E25EC9931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1774F2BC-D1DD-410C-9362-300E25EC9931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E965059-993E-49CA-A67B-BD11978D9D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E965059-993E-49CA-A67B-BD11978D9D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E965059-993E-49CA-A67B-BD11978D9D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E965059-993E-49CA-A67B-BD11978D9D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40972579-B6AE-4D47-A817-C945364B8B9E}
+	EndGlobalSection
+EndGlobal

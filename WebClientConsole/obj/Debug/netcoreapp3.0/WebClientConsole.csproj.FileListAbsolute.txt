@@ -1,0 +1,13 @@
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\WebClientConsole.exe
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\WebClientConsole.deps.json
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\WebClientConsole.runtimeconfig.json
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\WebClientConsole.runtimeconfig.dev.json
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\WebClientConsole.dll
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\WebClientConsole.pdb
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\obj\Debug\netcoreapp3.0\WebClientConsole.csprojAssemblyReference.cache
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\obj\Debug\netcoreapp3.0\WebClientConsole.AssemblyInfoInputs.cache
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\obj\Debug\netcoreapp3.0\WebClientConsole.AssemblyInfo.cs
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\obj\Debug\netcoreapp3.0\WebClientConsole.dll
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\obj\Debug\netcoreapp3.0\WebClientConsole.pdb
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\fiqri\Source\Repos\HelloWebAPI\WebClientConsole\obj\Debug\netcoreapp3.0\WebClientConsole.csproj.CopyComplete
